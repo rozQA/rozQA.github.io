@@ -1,57 +1,9 @@
-# hugo-paperMod Example
+# RozQA - efficient software testing
+Hello there! I'm Wojciech Rózga, tuning in from Poland. As a Test Architect, I’m all about boosting quality and effectiveness in software development. Here, you'll uncover expert insights on quality assurance, software development, and test automation. Dive into my posts to stay ahead of the curve with the latest trends and best practices driving our industry.
+<br><br>Thanks for stopping by - hope you find plenty of inspiration and knowledge here! Happy reading!
 
-This repository offers an example site for [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+## hugo-paperMod Example
+This repository offers an example site for [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) and solutions from https://github.com/reorx/hugo-PaperModX?tab=readme-ov-file
 
-## Install
-
+### Install
 Read Wiki => [hugo-PaperMod - Installation](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)
-
-## Directory Tree
-
-```
-.(site root)
-├── configTaxo.yml
-├── config.yml
-├── content
-│   ├── archives.fr.md
-│   ├── archives.md
-│   ├── posts
-│   │   ├── emoji-support.md
-│   │   ├── markdown-syntax.fa.md
-│   │   ├── markdown-syntax.fr.md
-│   │   ├── markdown-syntax.md
-│   │   ├── math-typesetting.md
-│   │   ├── papermod
-│   │   │   ├── _index.md
-│   │   │   ├── papermod-faq.md
-│   │   │   ├── papermod-features
-│   │   │   │   ├── images
-│   │   │   │   │   ├── homeinfo.jpg
-│   │   │   │   │   ├── profile.jpg
-│   │   │   │   │   └── regular.jpg
-│   │   │   │   └── index.md
-│   │   │   ├── papermod-icons.md
-│   │   │   ├── papermod-installation.md
-│   │   │   └── papermod-variables.md
-│   │   ├── placeholder-text.md
-│   │   └── rich-content.md
-│   ├── search.fr.md
-│   ├── search.md
-│   └── tags
-├── LICENSE
-├── README.md
-├── resources
-│   └── _gen
-│       ├── assets
-│       └── images
-├── static
-│   ├── android-chrome-192x192.png
-│   ├── android-chrome-512x512.png
-│   ├── apple-touch-icon.png
-│   ├── favicon-16x16.png
-│   ├── favicon-32x32.png
-│   ├── favicon.ico
-│   └── papermod-cover.png
-└── themes
-    └── hugo-PaperMod
-```
